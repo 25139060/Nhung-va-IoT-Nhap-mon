@@ -1,2 +1,5 @@
 Name: Nguyen Ngoc Hai Yen
 Student ID: 25139062
+git commit -m "docs: update project setup instructions in README"
+git commit -m "feat: implement user login functionality"
+git commit -m "fix: resolve crash issue when loading dashboard"
