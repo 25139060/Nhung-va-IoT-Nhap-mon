@@ -1,0 +1,5 @@
+Name: Than Nhat Nam
+Student number: 25139027
+git commit -m "docs: add users information to README"
+git commit -m "feat: add cold machine module for temperature control"
+git commit -m "fix: correct temperature calculation in cooling system"
