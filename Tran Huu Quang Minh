@@ -1,0 +1,5 @@
+Name: Trần Hữu Quang Minh
+Student ID: 25139026
+git commit -m "docs: add personal information to student module"
+git commit -m "feat: create profile page for student"
+git commit -m "fix: correct CSS styling issues in profile page"
